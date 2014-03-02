@@ -33,8 +33,8 @@ Also is prepared to receive points of interest (POI), let the "markers" of Googl
 
 Where $marca (marker) is an array with the point and with these settings:
 
-*lat - latitude of the point
-*long - stitch length
-*title - the title that appears in infowindow 
+* lat - latitude of the point
+* long - stitch length
+* title - the title that appears in infowindow 
 
 ($tipo)Type must be the same variable as before, with the same value. 
