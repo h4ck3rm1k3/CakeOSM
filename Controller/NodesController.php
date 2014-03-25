@@ -7,8 +7,8 @@ class NodesController extends AppController {
     function texto() {
         $this->layout = "textoopen";
 
-        $this->set('puntos', $this->Nodes->find('all'));
-        $this->pageTitle = "Puntos";
+        $this->set('points', $this->Nodes->find('all'));
+        $this->pageTitle = "Points";
     }
 
 }
